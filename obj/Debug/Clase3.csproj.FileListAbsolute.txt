@@ -1,0 +1,5 @@
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase3\Clase3\bin\Debug\Clase3.exe.config
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase3\Clase3\bin\Debug\Clase3.exe
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase3\Clase3\bin\Debug\Clase3.pdb
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase3\Clase3\obj\Debug\Clase3.exe
+c:\users\rzuniga\documents\visual studio 2015\Projects\Clase3\Clase3\obj\Debug\Clase3.pdb
